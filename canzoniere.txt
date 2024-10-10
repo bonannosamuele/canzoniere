@@ -1,0 +1,3 @@
+canzoni/felicità.cho
+canzoni/test2.cho
+canzoni/test3.cho

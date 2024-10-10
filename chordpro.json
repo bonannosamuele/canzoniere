@@ -1,0 +1,56 @@
+{
+  "pdf": {
+    "pagealign-songs": 0,
+    "even-odd-pages": 0,
+    "formats": {
+      "title": {
+        "subtitle": [
+          "%{artist}",
+          "",
+          ""
+        ]
+      },
+      "first": {
+        "footer": [
+          "",
+          "",
+          "%{page}"
+        ]
+      }
+    }
+  },
+  "contents": [
+    {
+      "fields": [
+        "songindex"
+      ],
+      "label": "Canzoni",
+      "line": "%{title}%{artist| - %{}}",
+      "pageno": "%{page}",
+      "omit": false,
+      "template": "stdtoc"
+    },
+    {
+      "fields": [
+        "sorttitle",
+        "artist"
+      ],
+      "label": "Contents by Title",
+      "line": "%{title}%{artist| - %{}}",
+      "pageno": "%{page}",
+      "omit": true,
+      "template": "stdtoc"
+    },
+    {
+      "fields": [
+        "artist",
+        "sorttitle"
+      ],
+      "label": "Contents by Artist",
+      "line": "%{artist|%{} - }%{title}",
+      "pageno": "%{page}",
+      "omit": true,
+      "template": "stdtoc"
+    }
+  ]
+}

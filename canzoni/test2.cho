@@ -1,0 +1,32 @@
+{t:A Nice Sample Song}
+{st:Grzegorz Pietrzak}
+{key:C}
+{transpose: 2}
+
+# Let's start it!
+[C]Let's sing this [G]song [Am]together [Em]aloud
+[F]It's an [C]example [Dm]with some nice [G]sound
+
+{soc: Chorus}
+[Bb]Whenever you [Am7]need to [Bb]format your [Am7]chords
+[Dm]The solution to your [F]problems [G]is very close
+{eoc}
+
+{comment: Now we recite some text}
+Sometimes you write text
+And there's no more room for chords
+
+{comment: Sometimes you play music without any words}
+[C] [G] [Am] [Em]
+
+{sot: Outro}
+E-12---------------------|
+B----11-12---------------|
+G----------11s13-14------|
+D-------------------10-12|
+A------------------------|
+E------------------------|
+{eot}
+
+{comment: The end}
+Let's finish this song. [G] It's the end of the show.
