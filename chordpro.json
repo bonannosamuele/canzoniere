@@ -1,4 +1,7 @@
 {
+  "notes": {
+    "system": "latin"
+  },
   "pdf": {
     "pagealign-songs": 0,
     "even-odd-pages": 0,
@@ -17,6 +20,23 @@
           "%{page}"
         ]
       }
+    },
+    "fonts": {
+      "text" : {
+        "description" : "Times-Roman",
+        "size" : 12
+      },
+      "chord" : {
+        "description" : "Helvetica-Oblique",
+        "color" : "#0000FF",
+        "size" : 10
+      }
+    },
+    "chorus": {
+      "tag": "Rit."
+    },
+    "labels": {
+      "width": "auto"
     }
   },
   "contents": [
