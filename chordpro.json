@@ -22,14 +22,14 @@
       }
     },
     "fonts": {
-      "text" : {
-        "description" : "Times-Roman",
-        "size" : 12
+      "text": {
+        "description": "Times-Roman",
+        "size": 12
       },
-      "chord" : {
-        "description" : "Helvetica-Oblique",
-        "color" : "#0000FF",
-        "size" : 10
+      "chord": {
+        "description": "Helvetica-Oblique",
+        "color": "#0000FF",
+        "size": 10
       }
     },
     "chorus": {
@@ -42,9 +42,9 @@
   "contents": [
     {
       "fields": [
-        "songindex"
+        "sorttitle"
       ],
-      "label": "Canzoni",
+      "label": "Canzoni in ordine alfabetico",
       "line": "%{title}%{artist| - %{}}",
       "pageno": "%{page}",
       "omit": false,
@@ -52,25 +52,14 @@
     },
     {
       "fields": [
-        "sorttitle",
-        "artist"
-      ],
-      "label": "Contents by Title",
-      "line": "%{title}%{artist| - %{}}",
-      "pageno": "%{page}",
-      "omit": true,
-      "template": "stdtoc"
-    },
-    {
-      "fields": [
-        "artist",
+        "tag",
         "sorttitle"
       ],
-      "label": "Contents by Artist",
-      "line": "%{artist|%{} - }%{title}",
+      "label": "Canzoni per tipo",
+      "break": "\n%{tag|%{}|Unspecified}",
+      "line": "%{title}%{artist| - %{}}",
       "pageno": "%{page}",
-      "omit": true,
-      "template": "stdtoc"
+      "omit": false
     }
   ]
 }
