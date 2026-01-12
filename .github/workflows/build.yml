@@ -86,7 +86,7 @@ jobs:
         </body>
         </html>
         EOF
-        sed -i "s/BUILD_DATE/$(date '+%d %B %Y %H:%M')/g" public/index.html
+        sed -i "s/BUILD_DATE/$(TZ='Europe/Rome' date '+%d %B %Y %H:%M')/g" public/index.html
         sed -i "s/BUILD_COMMIT/${GITHUB_SHA:0:7}/g" public/index.html
         
     - name: Upload artifact
