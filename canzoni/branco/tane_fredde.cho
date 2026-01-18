@@ -2,6 +2,7 @@
 {artist:Roberto Buffa}
 {tag:Branco}
 {columns: 2}
+{textsize: 10}
 
 [C]Che mattino [G]fortunato [Am]abbiam fatto un [Em]nuovo capo
 [F]ora la [G]giungla treme[C]rà, oh [G]oh oh;
@@ -17,6 +18,7 @@ e “[F]Bagheera,[G] Mowgli non c'è [C]più”, oh [G]oh oh;
 [F]non c'è Legge [G]che sconfigga [C]questa veri[Am]tà,
 [F]oggi la [G]giungla treme[Am]rà.
 
+{start_of_chorus}
 Ma [F]Chil vedrà, ma [G]Chil vedrà
 il c[E]ucciolo d'uomo che [Am]chiamerà:
 e, [F]fratellino hai lo [G]stesso sangue
@@ -24,6 +26,7 @@ di [C]chi rispetta la [E]Legge...
 per [F]tutto il tuo sen[G]tiero, se [F]ci credi per da[G]vvero,
 il fa[F]vore della [G]giungla ti accompagne[C]rà.[G]
 Lala[Am]lalala la [G]lai, la [C]la - [G]a lala[Am]la la [G]la.!
+{end_of_chorus}
 
 [C]Ma Baloo e Ba[G]gheera sanno: [Am]quella forza è [Em]solo inganno
 [F]e alla lotta si pre[G]parano di [C]già, oh [G]oh oh;
@@ -32,6 +35,7 @@ Lala[Am]lalala la [G]lai, la [C]la - [G]a lala[Am]la la [G]la.!
 [F]Tane fredde all'[G]orizzonte e la [C]luna è alta [Am]già,
 corri [F]forte, la ba[G]ttaglia inizie[Am]rà.
 
+{start_of_chorus}
 Ma [F]Chil vedrà, ma [G]Chil vedrà
 il c[E]ucciolo d'uomo che [Am]chiamerà:
 e, [F]fratellino hai lo [G]stesso sangue
@@ -39,3 +43,4 @@ di [C]chi rispetta la [E]Legge...
 per [F]tutto il tuo sen[G]tiero, se [F]ci credi per da[G]vvero,
 il fa[F]vore della [G]giungla ti accompagne[C]rà.[G]
 Lala[Am]lalala la [G]lai, la [C]la - [G]a lala[Am]la la [G]la.!
+{end_of_chorus}

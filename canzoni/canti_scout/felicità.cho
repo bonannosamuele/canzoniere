@@ -2,6 +2,7 @@
 {artist:Silver}
 {tag:Canti scout}
 {columns: 2}
+{textsize: 10}
 
 [C]Fel[G]ici[A]tà che nasce dalla fronte quando
 si cam[C]mina così tanto e non si vede il traguardo
@@ -18,11 +19,13 @@ con[G]fido che nel giro di due uscite le passi perch[D]é
 È un'avvent[C]ura, v[G]era, da vi[D]vere tutta però
 Niente pa[C]ura, o[G]ra, da o[A]ggi e per sempre sarò
 
+{start_of_chorus}
 Felicità [D](del nostro [C]me[A]glio)
 [D]Felicità (siam prepa[C]ra[A]ti)
 [D]Felicità (pronti a se[C]rvi[A]re)
 [C]Fe[G]lici [C](ec[G]comi)
-[C]Fe[G]lici[A]tà 
+[C]Fe[G]lici[A]tà
+{end_of_chorus}
 
 in tre punti da sapere a memoria
 un sal[C]uto che ci stringe dentro un'unica storia
@@ -39,11 +42,13 @@ da [G]rinnovare fino a settanta volte sette, ci st[D]o!
 È un'avvent[C]ura, v[G]era, da vi[D]vere tutta però
 Niente pa[C]ura, o[G]ra, da o[A]ggi e per sempre sarò
 
+{start_of_chorus}
 Felicità [D](del nostro [C]me[A]glio)
 [D]Felicità (siam prepa[C]ra[A]ti)
 [D]Felicità (pronti a se[C]rvi[A]re)
 [C]Fe[G]lici [C](ec[G]comi)
 [C]Fe[G]lici[A]tà
+{end_of_chorus}
 
 è un gesto che non stavi aspettando
 ma [C]so che tu al mio posto avresti fatto altrettanto
@@ -60,6 +65,7 @@ in[G]sieme nel futuro senza darsi le spalle, siam qu[D]i!
 È un'avvent[C]ura, v[G]era, da vi[D]vere tutta però
 Niente pa[C]ura, o[G]ra, da o[A]ggi e per sempre sarò
 
+{start_of_chorus}
 Felicità [D](del nostro [C]me[A]glio)
 [D]Felicità (siam prepa[C]ra[A]ti)
 [D]Felicità (pronti a se[C]rvi[A]re)
@@ -71,3 +77,4 @@ Felicità [D](del nostro [C]me[A]glio)
 [C]Fe[G]lici [C](ec[G]comi)
 
 [D]Felicità
+{end_of_chorus}
