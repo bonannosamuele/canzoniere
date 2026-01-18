@@ -30,10 +30,18 @@
         "description": "Helvetica-Oblique",
         "color": "#0000FF",
         "size": 10
+      },
+      "comment": {
+        "description": "Times-Bold",
+        "size": 12,
+        "background": "none"
       }
     },
     "chorus": {
-      "tag": "Rit."
+      "tag": "Rit.",
+      "recall": {
+        "tag": "Rit."
+      }
     },
     "labels": {
       "width": "auto"
