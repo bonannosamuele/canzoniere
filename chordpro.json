@@ -24,16 +24,16 @@
     "fonts": {
       "text": {
         "description": "Times-Roman",
-        "size": 12
-      },
-      "chord": {
-        "description": "Helvetica-Oblique",
-        "color": "#0000FF",
         "size": 10
       },
+      "chord": {
+        "description": "sans italic",
+        "color": "#0000FF",
+        "size": 9
+      },
       "comment": {
-        "description": "Times-Bold",
-        "size": 12,
+        "description": "sans italic",
+        "size": 10,
         "background": "none"
       }
     },
